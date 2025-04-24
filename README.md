@@ -2,6 +2,7 @@
 <!-- Microsoft -->
 <h2><p align="center">Retail Sales Dataset</p></h2>
 
+
 ### Abstract
 Excel was used to analyse multiple datasets and produce answers to multiple queries from sales to grading students tests. Beyond spreadsheet functions, pivot-tables were also used to produce key results. Supplementing this, the leglislation regarding the proper user of data and legality of data handling were also discussed.
 
